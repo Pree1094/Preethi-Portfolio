@@ -1,0 +1,17 @@
+body{
+   font-family: "Poppins", sans-serif;
+}
+.banner{
+    background-image: url(/portfolio/bgimage.jpg);
+background-size: cover;
+background-repeat: no-repeat;
+    padding:80px;
+}
+.card-img-top {
+  height: 100px;
+  width: 100%;
+  object-fit: contain;
+  padding-top: 10px; 
+}
+
+
