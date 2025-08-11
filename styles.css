@@ -2,7 +2,7 @@ body{
    font-family: "Poppins", sans-serif;
 }
 .banner{
-    background-image: url(.images/bgimage.jpg);
+    background-image: url(./images/bgimage.jpg);
 background-size: cover;
 background-repeat: no-repeat;
     padding:80px;
